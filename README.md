@@ -1,0 +1,1 @@
+# firebot-regex-link-protection
